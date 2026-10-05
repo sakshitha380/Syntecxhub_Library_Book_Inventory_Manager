@@ -1,0 +1,18 @@
+[
+    {
+        "book_id": "B001",
+        "title": "Python Programming",
+        "author": "Mark Lutz",
+        "year": 2024,
+        "status": "Available",
+        "issued_to": null
+    },
+    {
+        "book_id": "B002",
+        "title": "Data Structures and Algorithms",
+        "author": "Narasimha Karumanchi",
+        "year": 2023,
+        "status": "Available",
+        "issued_to": null
+    }
+]
